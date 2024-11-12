@@ -17,7 +17,7 @@ app.use(cors({
     origin: '*',
 }));
 // Connect to the MongoDB database
-mongoose.connect('mongodb+srv://karan8509:karan8509@cluster0.hdanpfx.mongodb.net/?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://karan8595:karan8595@cluster0.hdanpfx.mongodb.net/?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
